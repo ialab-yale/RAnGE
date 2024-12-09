@@ -1,2 +1,3 @@
-# RAnGE
-Reachability Analysis for Guaranteed Ergodicity
+# RAnGE: Reachability Analysis for Guaranteed Ergodicity
+
+Code coming soon!
