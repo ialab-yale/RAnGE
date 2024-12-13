@@ -1,0 +1,2 @@
+XLA_PYTHON_CLIENT_PREALLOCATE=false CUDA_VISIBLE_DEVICES=0 python3.8 experiment_scripts/main.py --uMax 5 --dMax 2 --norm_to 1 --var 1 --mean 0 --num_epochs 150e4 --counter_end 145e4 --lr 2e-05 --tDistExp 1.2 --sBuff 0.5 --experiment_name ../../logs/demo_uniform --phiks uniform --seed 1
+XLA_PYTHON_CLIENT_PREALLOCATE=false CUDA_VISIBLE_DEVICES=0 python3.8 experiment_scripts/main.py --uMax 5 --dMax 2 --norm_to 1 --var 1 --mean 0 --num_epochs 150e4 --counter_end 145e4 --lr 2e-05 --tDistExp 1.2 --sBuff 0.5 --experiment_name ../../logs/demo_bimodal --phiks bimodal --seed 2
