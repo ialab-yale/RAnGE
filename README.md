@@ -1,7 +1,7 @@
 # RAnGE: Reachability Analysis for Guaranteed Ergodicity
 ### [📄 Paper](https://arxiv.org/abs/2404.03186)<br>
 
-[Henry Berger](mailto:henry.berger@yale.edu) and [Ian Abraham](mailto:ian.abraham@yale.edu)<br>
+[Henry Berger](mailto:henry.berger@aya.yale.edu) and [Ian Abraham](mailto:ian.abraham@yale.edu)<br>
 Yale University
 
 ![Figure_1](https://github.com/user-attachments/assets/a1d99304-d85a-4e9c-a6e4-3442a771183e)
